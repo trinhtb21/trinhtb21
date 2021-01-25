@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="400">
+<a href="https://github.com/sponsors/trinhtb21"><img align='right' width="150" height="150" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
 <h3 align="left"><em>I am a mechatronic engineer from Vietnam</em></h3>
 - 🔭 I’m currently working on Japan [automotive analysis](titeo.net)
 
@@ -23,13 +23,13 @@
 ### Working with GIT
    <div align=center>
     <a href="https://github.com/trinhtb21">
-     <img width="270" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
+     <img width="265" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
     </a>
    <a href="https://github.com/trinhtb21">
-     <img width="270" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
+     <img width="265" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
     </a>
     <a href="https://github.com/trinhtb21">
-     <img width="270" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
+     <img width="265" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
     </a>
    </div>
    
