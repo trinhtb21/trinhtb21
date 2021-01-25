@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [titeo.net](titeo.net)
 
-[![Twitter: @Trinhtb21](https://img.shields.io/twitter/follow/trinhtb21?logo=twitter&style=social alt="trinhtb21")](https://twitter.com/trinhtb21)
+[![Twitter: @Trinhtb21](https://img.shields.io/twitter/follow/trinhtb21?logo=twitter&style=social)](https://twitter.com/trinhtb21)
 [![GitHub Trinhtb21](https://img.shields.io/github/followers/trinhtb21?label=follow&style=social)](https://github.com/Trinhtb21)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
