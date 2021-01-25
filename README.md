@@ -3,7 +3,7 @@
    <a href="https://github.com/sponsors/trinhtb21"><img align='left' width="300" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
    <div align=left>
       <h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
-   
+      <code>
          - 🔭 I’m currently working on Japan [![automotive analysis](titeo.net)
          
          - 💬 Ask me about **command windows, vba, ...**
@@ -14,6 +14,7 @@
       
 [![Twitter: @Trinhtb21](https://img.shields.io/twitter/follow/trinhtb21?logo=twitter&style=social)](https://twitter.com/trinhtb21)
 [![GitHub Trinhtb21](https://img.shields.io/github/followers/trinhtb21?label=follow&style=social)](https://github.com/Trinhtb21)
+</code>
 </div>
 </div>
 
