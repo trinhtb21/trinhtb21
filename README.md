@@ -23,13 +23,13 @@
 ### Working with GIT
    <div align=center>
     <a href="https://github.com/trinhtb21">
-     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
+     <img width="250" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
     </a>
    <a href="https://github.com/trinhtb21">
-     <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
+     <img width="250" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
     </a>
     <a href="https://github.com/trinhtb21">
-     <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
+     <img width="250" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
     </a>
    </div>
    
