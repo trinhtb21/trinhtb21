@@ -25,20 +25,20 @@
 ### ⚡Working with GIT⚡
    <div align=center>
     <a href="https://github.com/trinhtb21">
-     <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
+     <img height=175 width="230" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
     </a>
    <a href="https://github.com/trinhtb21">
-     <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
+     <img height=175 width="230" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
     </a>
     <a href="https://github.com/trinhtb21">
-     <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
+     <img height=175 width="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
     </a>
    </div>
    
  <h3 align="center"><em>If interested in me, please follow me! ❤️</em></h3>
  <div align="center">
   <a href="https://github.com/trinhtb21">
-  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trinhtb21.trinhtb21)](https://github.com/trinhtb21)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trinhtb21.trinhtb21)
   </a>
   <a href="https://github.com/trinhtb21">
     <img href="https://github.com/trinhtb21" src="https://img.shields.io/github/forks/trinhtb21/trinhtb21"/>
