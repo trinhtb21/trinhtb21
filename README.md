@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&" alt="trinhtb21" /></p>
 
+
 ### ⚡Working with GIT⚡
    <div align=center>
     <a href="https://github.com/trinhtb21">
@@ -38,19 +39,22 @@
   <div align=center>
    <a href="https://github.com/trinhtb21">
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham)](https://github.com/trinhtb21)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham)](https://github.com/trinhtb21/trinhtb21)
   </a>
 </div>
 <div align="center">
+</details>
+
 ### If interested in me, please follow me! ❤️
+
 </div>
  
  <div align="center">
   <a href="https://github.com/trinhtb21">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trinhtb21)
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trinhtb21.trinhtb21)
   </a>
   <a href="https://github.com/trinhtb21">
-    <img href="https://github.com/trinhtb21" src="https://img.shields.io/github/forks/trinhtb21"/>
+    <img href="https://github.com/trinhtb21" src="https://img.shields.io/github/forks/trinhtb21/trinhtb21"/>
   </a>
  </div>
-
