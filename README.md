@@ -14,24 +14,22 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinhtb21&label=Profile%20views&color=0e75b6&style=flat" alt="trinhtb21" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinhtb21" alt="trinhtb21" /></a> </p>
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡Working with GIT⚡
+### Working with GIT
    <div align=center>
     <a href="https://github.com/trinhtb21">
-     <img height=175 width="230" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
+     <img height=250 width="250" align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
     </a>
    <a href="https://github.com/trinhtb21">
-     <img height=175 width="230" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
+     <img height=250 width="250" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
     </a>
     <a href="https://github.com/trinhtb21">
-     <img height=175 width="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
+     <img height=250 width="250" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
     </a>
    </div>
    
