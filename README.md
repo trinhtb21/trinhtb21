@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500">
+<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="400">
 <h3 align="left"><em>I am a mechatronic engineer from Vietnam</em></h3>
 - 🔭 I’m currently working on Japan [automotive analysis](titeo.net)
 
@@ -13,7 +13,7 @@
 [![GitHub Trinhtb21](https://img.shields.io/github/followers/trinhtb21?label=follow&style=social)](https://github.com/Trinhtb21)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinhtb21&label=Profile%20views&color=0e75b6&style=flat" alt="trinhtb21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinhtb21&label=Profile%20views&color=0e75b6&style=flat" alt="trinhtb21"/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinhtb21" alt="trinhtb21" /></a> </p>
 
 ### Blogs posts
