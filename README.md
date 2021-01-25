@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="230">
 <h3 align="left"><em>I am a mechatronic engineer from Vietnam</em></h3>
 - 🔭 I’m currently working on Japan [automotive analysis](titeo.net)
 
@@ -22,26 +22,19 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&locale=en" alt="trinhtb21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&" alt="trinhtb21" /></p>
-
-
 ### ⚡Working with GIT⚡
    <div align=center>
     <a href="https://github.com/trinhtb21">
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham">
+     <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=trinhtb21&show_icons=true&theme=gotham&locale=en" alt="trinhtb21">
+    </a>
+   <a href="https://github.com/trinhtb21">
+     <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham&show_icons=true&locale=en" alt="trinhtb21">
     </a>
     <a href="https://github.com/trinhtb21">
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
+     <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtb21&layout=compact&theme=gotham" />
     </a>
+   
    </div>
-  <div align=center>
-   <a href="https://github.com/trinhtb21">
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinhtb21&theme=gotham)](https://github.com/trinhtb21/trinhtb21)
-  </a>
-</div>
 <div align="center">
 </details>
 
