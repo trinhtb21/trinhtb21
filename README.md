@@ -38,6 +38,7 @@
  <h3 align="center"><em>If interested in me, please follow me! ❤️</em></h3>
  <div align="center">
   <a href="https://github.com/trinhtb21">
+  
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trinhtb21.trinhtb21)
   </a>
   <a href="https://github.com/trinhtb21">
