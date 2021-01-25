@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500">
 <h3 align="left"><em>I am a mechatronic engineer from Vietnam</em></h3>
 - 🔭 I’m currently working on Japan [automotive analysis](titeo.net)
 
