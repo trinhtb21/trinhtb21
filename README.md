@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <div align=center>
-<a href="https://github.com/sponsors/trinhtb21"><img align='left' width="300" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
+<a href="https://github.com/sponsors/trinhtb21"><img align='left' width="320" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
    <div align=left>
-<h3 ><em>I am a mechatronic engineer from Vietnam</em></h3>
+<h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
 - 🔭 I’m currently working on Japan [![automotive analysis](titeo.net)
 
 - 💬 Ask me about **command windows, vba, ...**
