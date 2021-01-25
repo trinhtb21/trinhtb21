@@ -2,7 +2,8 @@
 <div align=center>
    <a href="https://github.com/sponsors/trinhtb21"><img align='left' width="300" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
    <div align=left>
-      </br><h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
+      <h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
+   
          - 🔭 I’m currently working on Japan [![automotive analysis](titeo.net)
          
          - 💬 Ask me about **command windows, vba, ...**
