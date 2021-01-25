@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm TRINH <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <div align=center>
    <a href="https://github.com/sponsors/trinhtb21"><img align='left' width="300" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?raw=true"></a>
-   <br><div align=left>
-      <h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
+   </br><div align=left>
+      </br><h3 style="white-space: pre-line" ><em>I am a mechatronic engineer from Vietnam</em></h3>
+      
          - 🔭 I’m currently working on Japan [![automotive analysis](titeo.net)
+         
          - 💬 Ask me about **command windows, vba, ...**
+         
          - 📫 How to reach me **trinhtb21@gmail.com**
+         
          - 📄 Know about my experiences [titeo.net](titeo.net)
       
 [![Twitter: @Trinhtb21](https://img.shields.io/twitter/follow/trinhtb21?logo=twitter&style=social)](https://twitter.com/trinhtb21)
